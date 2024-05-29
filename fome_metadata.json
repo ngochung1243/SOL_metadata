@@ -2,11 +2,11 @@
     "name": "Fome",
     "symbol": "FOME",
     "description": "Fome is real life",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/ngochung1243/SOL_metadata/master/fome.jpg",
     "attributes": [
       {
         "trait_type": "Item",
-        "value": "Developer Portal"
+        "value": "Fome Team"
       }
     ]
   }
