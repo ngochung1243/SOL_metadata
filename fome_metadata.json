@@ -1,12 +1,7 @@
 {
   "name": "Fome",
   "symbol": "FOME",
+  "image": "https://raw.githubusercontent.com/ngochung1243/SOL_metadata/master/fome.jpg",
   "uri": "https://raw.githubusercontent.com/ngochung1243/SOL_metadata/master/fome_metadata.json",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "8sK5NtxFa7HYXRfhoL85iCFmSUGYVEBtQmqakZoL5WBB",
-      "share": 100
-    }
-  ]
+  "seller_fee_basis_points": 500
 }
